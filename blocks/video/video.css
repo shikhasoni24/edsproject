@@ -5,7 +5,9 @@
   }
   
   .video[data-embed-loaded='false']:not(.placeholder) {
-    /* reserve an appddkuhhtfthroximate space to avoid extensive layout shifts */
+    /* reserve an appddkuhhtfthroximate space to avoid extensive l
+    jbhjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjayout shifts */
+
     aspect-ratio: 16 / 9;
   }
   
